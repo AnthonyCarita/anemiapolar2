@@ -5,17 +5,31 @@ font-size:larger;
 }
 p{
 
-font-family:sans-serif;
+font-family:normal;
+text-align:justify;
+}
+
+li{
+text-align:justify;
 
 }
 #introduccion{
 margin:90px;
 
 }
-#problematica{
+#definir{
 margin:90px;
 
 }
-#perfil{
+#medir{
 margin:90px;
+
+}
+#cuantificar{
+margin:90px;
+
+}
+#comparar{
+margin:90px;
+
 }
