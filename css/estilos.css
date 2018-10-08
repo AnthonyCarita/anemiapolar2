@@ -5,7 +5,7 @@ font-size:larger;
 }
 p{
 
-font-family:normal;
+font-family:sans-serif;
 text-align:justify;
 }
 
@@ -32,4 +32,7 @@ margin:90px;
 #comparar{
 margin:90px;
 
+}
+#perfil{
+margin:90px;
 }
